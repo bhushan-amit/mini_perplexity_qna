@@ -1,0 +1,16 @@
+# Ignore environment variables
+backend/.env
+
+# Ignore virtual environment folder
+backend/venv/
+
+# Ignore system files
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Ignore temporary files
+*.log
+
+# PyCharm
+.idea/
