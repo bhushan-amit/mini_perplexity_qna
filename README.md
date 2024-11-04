@@ -181,11 +181,9 @@ This system aims to answer user questions using the Bing Search API to retrieve 
 
 6. **Multi-Modal Capabilities**: Incorporate multimedia support (images, videos) in responses to enrich user experience, especially in visual or tutorial contexts.
 
-7. **Caching**: Integrate a caching system to improve response times for frequently asked queries, enhancing overall efficiency.
+7. **Expanded API Options**: Add support for additional search APIs or AI models, increasing the range of information and insights provided to users.
 
-8. **Expanded API Options**: Add support for additional search APIs or AI models, increasing the range of information and insights provided to users.
-
-9. **Citing References Number**: Incorporate citation links in the GPT responses, where each reference is numbered and clickable, allowing users to view the sources directly below the answer.
+8. **Citing References Number**: Incorporate citation links in the GPT responses, where each reference is numbered and clickable, allowing users to view the sources directly below the answer.
 
 
 ---
