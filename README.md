@@ -154,7 +154,7 @@ This system aims to answer user questions using the Bing Search API to retrieve 
 
 - **Frontend Deployment**: **Vercel** was selected for frontend deployment due to its easy integration with GitHub, allowing quick builds for changes and providing free HTTPS sharable URLs.
 
-- **UI/UX Design Choice**: The color scheme and design are inspired by **Perplexity's UI from 2022**, reflecting their aesthetic as seen in historical tweets.
+- **UI/UX Design Choice**: The color scheme and design are inspired by **Perplexity's UI from 2022**, reflecting their aesthetic as seen in historical [tweets](https://x.com/perplexity_ai/status/1600551871554338816).
 
 - **Backend Deployment**: We deployed the backend on **Render** for the required compute at no cost, providing the fastest path to production.
 
