@@ -74,7 +74,13 @@ This system aims to answer user questions using the Bing Search API to retrieve 
    OPENAI_API_KEY=your_openai_api_key
    ```
 
-6. **Start the FastAPI backend:**
+6. **Run Tests:**
+
+   ```bash
+   python -m pytest
+   ```
+   
+7. **Start the FastAPI backend:**
 
    ```bash
    uvicorn app.main:app --reload
