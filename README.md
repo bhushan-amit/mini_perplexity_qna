@@ -185,6 +185,8 @@ This system aims to answer user questions using the Bing Search API to retrieve 
 
 8. **Expanded API Options**: Add support for additional search APIs or AI models, increasing the range of information and insights provided to users.
 
+9. **Citing References Number**: Incorporate citation links in the GPT responses, where each reference is numbered and clickable, allowing users to view the sources directly below the answer.
+
 
 ---
 
